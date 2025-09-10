@@ -106,9 +106,9 @@ required:
 - Add comments for complex logic if missing
 - Ensure any API changes are documented
 
-## Output 1: Update Story File - QA Results Section ONLY
+## Output 1: Update Story File - QA Results Section and Change Log ONLY
 
-**CRITICAL**: You are ONLY authorized to update the "QA Results" section of the story file. DO NOT modify any other sections.
+**CRITICAL**: You are ONLY authorized to update the "QA Results" section of the story file and update "Change Log" section to add an entry of qa updates at the end. DO NOT modify any other sections.
 
 **QA Results Anchor Rule:**
 
